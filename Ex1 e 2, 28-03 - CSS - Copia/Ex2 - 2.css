@@ -1,0 +1,21 @@
+.a {
+    background-color: rgb(219, 107, 219);
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.b {
+    background-color: #EBA5BC;
+    width: 250px;
+    display: flex;
+    justify-content: centers;
+    border: solid red 20px;
+}
+
+.c {
+    background-color: aquamarine;
+    height: 88%;
+    width: 30%;
+}
